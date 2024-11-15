@@ -1,0 +1,374 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.search{
+    width:20px;
+    height:20px;
+    object-fit: cover;
+}
+.where{
+    display:flex;
+    gap:15px;
+    font-size: small;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    background-color: white;
+    width:300px;
+    height:50px;
+    box-shadow: 2px 2px 6px lightgray;
+    margin:0px auto;
+}
+.abnb{
+    
+    margin-left: -30px;
+    align-content: center;
+}
+p{
+    margin:0;
+    padding: 0;
+}
+.far{
+    width:30px;
+    height:30px;
+    padding: 0;
+    margin: 7px 10px;
+}
+.farms{
+    align-items: center;
+}
+.roo{
+    width:30px;
+    height:30px;
+    padding: 0;
+    margin: 7px 2px;
+}
+.rooms{
+    align-items: center;
+}
+.bnb{
+    width:30px;
+    height:30px;
+    padding: 0px 3px;
+    margin: 7px 15px;
+}
+.bb{
+    align-items: center;
+}
+.th{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px;
+}
+.tinyhomes{
+    align-items: center;
+}
+.mans{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px;
+}
+.mansions{
+    align-items: center;
+}
+.treeh{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px;
+}
+.treehouses{
+    align-items: center;
+}
+.ampoo{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px 15px;
+}
+.amazingpools{
+    align-items: center;
+}
+.cside{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px 7px;
+}
+.countryside{
+    align-items: center;
+}
+.amviews{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px 15px;
+}
+.amazingviews{
+    align-items: center;
+}
+.lfront{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px;
+}
+.lakefront{
+    align-items: center;
+}
+.ooo{
+    width:30px;
+    height:30px;
+    padding: 0 3px;
+    margin: 7px -1px;
+}
+.omg{
+    align-items: center;
+}
+.arrow{
+    width:20px;
+    height:20px;
+    border:1px solid rgb(163, 160, 160);
+    border-radius: 50px;
+    object-fit: cover;
+    padding:2px 2px;
+}
+.arr{
+    align-items: center;
+}
+.display{
+    display:flex;
+    gap:13px;
+    box-shadow: 0px  4px rgb(243, 236, 236);
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    overflow-x:scroll;
+    
+}
+.display::-webkit-scrollbar{
+    display:none;
+}
+.first{
+    position:sticky;
+    
+}
+.logo{
+    width:35px;
+    height:35px;
+    justify-content: start;
+    display:block;
+   
+    align-items: center;
+    margin-top: 2px;
+}
+.settings,.user{
+    width:20px;
+    height:30px;
+}
+.side{
+    display:flex;
+    gap:15px;
+    border-radius: 30px;
+    width:70px;
+    height:40px;
+    background-color: white;
+    border:0.5px solid rgb(163, 160, 160);
+    align-items: center;
+    padding-left: 10px;
+    object-fit: cover;
+    margin-top: 2px;
+}
+.heading{
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: center;
+}
+.s1{
+    display:flex;
+    gap:20px;
+    flex-wrap: nowrap;
+    align-items: center;
+    width:250px;
+    margin-left: 300px;
+    margin-top: 2px;
+}
+.s2{
+    display:flex;
+    gap:20px;
+    flex-wrap: nowrap;
+    padding-top:auto;
+    align-items: center;
+    width:250px;
+    margin-top: 2px;
+}
+.staysim-1,.staysim-2,.staysim-3,.staysim-4,.staysim-5,.staysim-6,.expim-1,.expim-2,.expim-3,.expim-4,.expim-5{
+    width:300px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+.stays1,.stays2,.stays3,.stays4,.stays5,.stays6,.exp1,.exp2,.exp3,.exp4,.exp5{
+    margin-top: 15px;
+    position: relative;
+
+}
+.upload{
+    object-fit:cover;
+    position: absolute;
+    top: 3px;
+    left:260px;
+    background-color: lightgrey;
+    width:20px;
+    height:20px;
+    border-radius: 50px;
+    padding:1px 1px;
+    
+}
+
+.templates1,.templates2{
+    display: flex;
+    gap:30px;
+    flex-wrap: wrap;
+}
+.templates2{
+    padding-bottom: 30px;
+}
+.expim-6,.expim-7,.expim-8,.expim-9,.expim-10,.expim-11,.expim-12,.expim-13,.expim-14,.expim-15,.expim-16{
+    width:300px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 14px;
+}
+.exp6,.exp7,.exp8,.exp9,.exp10,.exp11,.exp12,.exp13,.exp14,.exp15,.exp16{
+    margin-top: 15px;
+    position: relative;
+}
+.popular{
+    width:850px;
+    display:flex;
+    gap:40px;
+    overflow-x: scroll;
+    text-align: center;
+    left:500px;
+}
+.popular::-webkit-scrollbar{
+    display: none;
+}
+.middle{
+    display:flex;
+    gap:230px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.theory{
+    margin-top: 20px;
+}
+.fir,.sec,.thi{
+    margin-top: -10px;
+}
+.show{
+    display:flex;
+    align-items: center;
+    gap:4px;
+}
+.down{
+    width:20px;
+    height:20px;
+    display: flex;
+    transform: rotate(180deg);
+}
+.line{
+    margin-top: 50px;
+    color:solid rgb(168, 164, 164);
+}
+.middle2{
+    display:flex;
+    gap:150px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.categ{
+    margin-top: 20px;
+}
+.support,.hosting,.air{
+    margin-top: -10px;
+}
+.network,.rupee{
+    width:18px;
+    height: 18px;
+    object-fit: cover;
+    border-radius: 50px;
+    border: none;
+
+}
+.set1{
+    display: flex;
+    gap:10px;
+    align-items: center;
+    margin-top:20px ;
+}
+.set2{
+    display:flex;
+    gap:5px;
+    align-items: center;
+    margin-top:20px ;
+}
+.last2,.rup2{
+    margin-top: -5px;
+}
+.fb,.x,.ig{
+    width:18px;
+    height: 18px;
+    object-fit: cover;
+}
+.set3{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    margin-top:20px ;
+}
+.last{
+
+    display:flex;
+    gap:40px;
+    padding-left: 40%;
+    padding-bottom: 10px;
+    
+}
+.last-11{
+    display:flex;
+    gap:8px;
+    align-items: center;
+    padding-left: 48%;
+ 
+    padding-bottom: 10px;
+}
+.last-12{
+    display:flex;
+    gap:20px;
+    padding-left: 38%;
+    flex-wrap:nowrap;
+    
+    align-items: center;
+}
+.circle{
+    width:10px;
+    height:10px;
+    object-fit: cover;
+    
+}
+.second{
+    background-color: rgb(247, 245, 245);
+    padding-top: 15px;
+    padding-left: 30px;
+    margin-bottom: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.spec{
+    padding-top: 6px;
+}
